@@ -50,7 +50,7 @@ Ej:
 },
 ```
 
-Paso 6
+## Paso 6
 Agregar en el archivo de CONTRIBUTING.md
 "- Tu nombre"
 
