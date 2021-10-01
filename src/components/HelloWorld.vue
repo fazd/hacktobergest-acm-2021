@@ -29,7 +29,7 @@
               <v-img
                 class="elevation-6"
                 alt=""
-                src="../assets/me.jpg"
+                :src="item.link"
               ></v-img>
             </v-list-item-avatar>
 
@@ -68,6 +68,7 @@
           name: 'Fabio',
           sentence: 'Soy Fabio Zapata, me acabo de graduar. tengo 23 años y me gusta programar Web (Back)', 
           title: 'prueba 1',
+          link: '../assets/me.jpg',
         },
       ]
     }),

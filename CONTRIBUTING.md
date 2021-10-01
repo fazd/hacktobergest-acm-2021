@@ -38,10 +38,20 @@ $ cd hacktobergest-acm-2021`
 ```
 
 Paso 5
-Agregar un archivo. ya sea un archivo donde te presentes. (puede ser en HTML. Lo que tu desses)
+Dirigirte al archivo src/components/HelloWorld.vue y en la sección de Items agregar tu información como está arriba.
+
+Ej:
+
+```ssh
+{
+  name: 'Fabio',
+  sentence: 'Soy Fabio Zapata, me acabo de graduar. tengo 23 años y me gusta programar Web (Back)',
+  title: 'prueba 1',
+},
+```
 
 Paso 6
-Agregar en el archivo de README.md
+Agregar en el archivo de CONTRIBUTING.md
 "- Tu nombre"
 
 ## Paso 7
