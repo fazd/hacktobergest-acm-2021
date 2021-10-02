@@ -90,3 +90,9 @@ Muchas gracias por contribuir a este repositorio
 
 - Fabio Zapata 
 - Luis Camacho 
+- Fabio Zapata
+- Jesus Reyes
+- Miguel Nieto A
+- Edilberto Rodriguez
+- Luis Llanos
+- Jesús Imitola
