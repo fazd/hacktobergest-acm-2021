@@ -89,6 +89,7 @@ Presionas en crear pull request y escribes el mensaje explicando que hiciste
 Muchas gracias por contribuir a este repositorio
 
 - Fabio Zapata
+- Jesus Reyes
 - Miguel Nieto A
 - Edilberto Rodriguez
 - Luis Llanos
