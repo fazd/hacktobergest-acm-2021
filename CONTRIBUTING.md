@@ -90,3 +90,6 @@ Muchas gracias por contribuir a este repositorio
 
 - Fabio Zapata
 - Miguel Nieto A
+- Edilberto Rodriguez
+- Luis Llanos
+- Jesús Imitola
