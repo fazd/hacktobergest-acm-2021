@@ -68,7 +68,7 @@
           name: 'Fabio',
           sentence: 'Soy Fabio Zapata, me acabo de graduar. tengo 23 años y me gusta programar Web (Back)', 
           title: 'prueba 1',
-          link: '../assets/me.jpg',
+          link: 'https://cdn3.iconfinder.com/data/icons/avatars-flat/33/man_5-512.png',
         },
       ]
     }),
