@@ -70,6 +70,12 @@
           title: 'prueba 1',
           link: 'https://cdn3.iconfinder.com/data/icons/avatars-flat/33/man_5-512.png',
         },
+        {
+          name: 'Jesus',
+          sentence: 'Soy Jesus Reyes, soy estudiante de ingeniera de sistemas. Tengo 21 años.', 
+          title: 'prueba 1',
+          link: 'https://cdn3.iconfinder.com/data/icons/avatars-flat/33/man_5-512.png',
+        },
       ]
     }),
   }
