@@ -37,7 +37,7 @@ $ git clone https://github.com/yourUser/hacktobergest-acm-2021`
 $ cd hacktobergest-acm-2021`
 ```
 
-Paso 5
+## Paso 5
 Dirigirte al archivo src/components/HelloWorld.vue y en la sección de Items agregar tu información como está arriba.
 
 Ej:
@@ -50,7 +50,7 @@ Ej:
 },
 ```
 
-Paso 6
+## Paso 6
 Agregar en el archivo de CONTRIBUTING.md
 "- Tu nombre"
 
