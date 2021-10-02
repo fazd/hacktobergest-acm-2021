@@ -70,6 +70,12 @@
           title: 'prueba 1',
           link: 'https://cdn3.iconfinder.com/data/icons/avatars-flat/33/man_5-512.png',
         },
+        {
+          name: 'Miguel Nieto A',
+          sentence: 'Soy Miguel Nieto A, estudiante de octavo semestre. Me gusta el desarrollo backend y la analítica de datos. Aprendiendo Ruby! 😎', 
+          title: 'Contribution from Miguel!',
+          link: 'https://img2.freepng.es/20180623/iqh/kisspng-computer-icons-avatar-social-media-blog-font-aweso-avatar-icon-5b2e99c40ce333.6524068515297806760528.jpg',
+        },
       ]
     }),
   }
