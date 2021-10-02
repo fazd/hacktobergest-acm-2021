@@ -90,3 +90,4 @@ Muchas gracias por contribuir a este repositorio
 
 - Fabio Zapata
 - Luis Llanos
+- Jesús Imitola
