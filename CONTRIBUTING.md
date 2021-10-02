@@ -90,3 +90,5 @@ Muchas gracias por contribuir a este repositorio
 
 - Fabio Zapata
 - Edilberto Rodriguez
+- Luis Llanos
+- Jesús Imitola
