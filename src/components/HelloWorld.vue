@@ -70,6 +70,12 @@
           title: 'prueba 1',
           link: 'https://cdn3.iconfinder.com/data/icons/avatars-flat/33/man_5-512.png',
         },
+        {
+          name: 'Luis Llanos',
+          sentence: 'Soy Luis Llanos... emmm, bueno eso es todo :). ', 
+          title: 'Sasageyo!',
+          link: 'https://img.wattpad.com/4c33fbc4bcf137cba59e1d5c737370135a885888/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f5a547a49784138437439464d71413d3d2d3236332e313533393232316365663366343435333138383332373031313233362e6a7067?s=fit&w=720&h=720',
+        },
       ]
     }),
   }
