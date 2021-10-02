@@ -70,7 +70,15 @@
           title: 'prueba 1',
           link: 'https://cdn3.iconfinder.com/data/icons/avatars-flat/33/man_5-512.png',
         },
+        {
+          name: 'Luis',
+          sentence: 'Soy Luis Camacho, estudiante de ingeniería de sistemas en 8 semestre. tengo 20 años y me gusta programar Web (Front)', 
+          title: 'prueba 2',
+          link: 'https://cdn3.iconfinder.com/data/icons/avatars-flat/33/man_5-512.png',
+        }
       ]
     }),
   }
 </script>
+
+
