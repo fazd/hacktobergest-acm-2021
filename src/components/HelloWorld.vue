@@ -70,6 +70,12 @@
           title: 'prueba 1',
           link: 'https://cdn3.iconfinder.com/data/icons/avatars-flat/33/man_5-512.png',
         },
+        {
+          name: 'Jesus',
+          sentence: 'Soy Jesús Imitola, actualmente curso el 8vo semestre. Tengo 20 años y me gusta el desarrollo web ;) 0xD a decimal',
+          title: 'prueba n',
+          link: 'https://cdn3.iconfinder.com/data/icons/avatars-flat/33/man_5-512.png',
+        }
       ]
     }),
   }
