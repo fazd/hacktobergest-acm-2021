@@ -70,6 +70,12 @@
           title: 'prueba 1',
           link: 'https://cdn3.iconfinder.com/data/icons/avatars-flat/33/man_5-512.png',
         },
+        {
+          name: 'Edilberto',
+          sentence: 'Soy Edilberto Rodriguez. tengo 18 años y me gusta programar', 
+          title: 'prueba 1',
+          link: 'https://cdn3.iconfinder.com/data/icons/avatars-flat/33/man_5-512.png',
+        },
       ]
     }),
   }
